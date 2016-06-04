@@ -10,4 +10,13 @@ return 0;
 }
 
 
+void foo_a()
+{
+    int fooa;
+}
+
+void foob()
+{
+    int foob;
+}
 
